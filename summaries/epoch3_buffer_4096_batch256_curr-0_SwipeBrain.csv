@@ -1,0 +1,5 @@
+Brain name,Time to update policy,Time since start of training,Time for last experience collection,Number of experiences used for training,Mean return
+SwipeBrain,2.608,334.762,327.910,4151,16.157
+SwipeBrain,2.407,682.067,341.429,4103,18.041
+SwipeBrain,2.375,1022.529,334.384,4111,19.442
+SwipeBrain,2.376,1418.525,390.354,4112,21.926
